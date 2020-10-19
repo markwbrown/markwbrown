@@ -1,4 +1,4 @@
-## [![Mark Brown's header](https://github.com/markwbrown/markwbrown/blob/main/logo/mb-banner-light.png)](https://markbrown.space)
+## [![Mark Brown's header](https://github.com/markwbrown/markwbrown/blob/main/icon/mb-banner-light.png)](https://markbrown.space)
 
 <p align='center'>
 <a href="https://twitter.com/_0_0_"><img height="30" src="https://github.com/markwbrown/markwbrown/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
