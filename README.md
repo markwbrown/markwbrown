@@ -5,7 +5,7 @@
 <a href="https://instagram.com/iammarkbrown"><img height="30" src="https://github.com/markwbrown/markwbrown/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Hello there! My name is Mark Brown 👋🤓</h2>
+<h2 align="center">Hello there! My name is Mark Brown and this is a hand 👋 </h2>
 <p align="center">I'm a Full Stack Web Developer, Farmer, Embedded systems designer from California.
 I currently am passionate about Progressive Web Apps (Vue and React), Koa2, Python, Numpy/Pandas, Coffee, Neural Nets, S.E.O, Web Performance, Robotics and Automation.
 When I'm not developing and building things, you can find me on Youtube learning or farming.</p>
