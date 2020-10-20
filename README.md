@@ -22,8 +22,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 💼 Where i am currently working at/as
 - [Bright Productions: CTO](https://brightproductions.com) 💼 
-- [Viti Analytics: Developer and Founder](https://viti.io/) ✒
-
+- [Viti Analytics: Developer and Founder](https://viti.io/) 🍇
 
 ### 💻 What i am currently/done working on
 - [Bubbies](https://bubbies.com)  🚀
@@ -33,12 +32,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 - Just give me the recipes  🚀 *coming soon*
 - linkto.network  🚀 *coming soon*
 - se.quenc.es  🚀 *coming soon*
-- [Cesco Magnetics](https://cescomagnetics.com/)
-- [Opperman & Sons](https://oppermansales.com/)
-- [Weinstein Security](https://weinsteinsecurity.com/)
-- [Katalina Holding Company](https://katalinaholdingcompany.com/)
-- [Cook's Pantry](https://cookspantry.com/)
-- [Spoiled to Perfecton](https://spoiledtoperfection.com/)
+- [Cesco Magnetics](https://cescomagnetics.com/) 🧲
+- [Opperman & Sons](https://oppermansales.com/)🚛
+- [Weinstein Security](https://weinsteinsecurity.com/)👮
+- [Katalina Holding Company](https://katalinaholdingcompany.com/)✈️
+- [Cook's Pantry](https://cookspantry.com/)🧑‍🍳
+- [Spoiled to Perfecton](https://spoiledtoperfection.com/)🥒
 
 
 ### 📫 Where to find me
