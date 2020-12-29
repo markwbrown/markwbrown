@@ -36,7 +36,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Opperman & Sons](https://oppermansales.com/)🚛
 - [Weinstein Security](https://weinsteinsecurity.com/)👮
 - [Katalina Holding Company](https://katalinaholdingcompany.com/)✈️
-- [Cook's Pantry](https://cookspantry.com/)🧑‍🍳
 - [Spoiled to Perfecton](https://spoiledtoperfection.com/)🥒
 
 
