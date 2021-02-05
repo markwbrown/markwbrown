@@ -22,7 +22,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 💼 Where i am currently working at/as
 - [Bright Productions: CTO](https://brightproductions.com) 💼 
-- [Viti Analytics: Developer and Founder](https://viti.io/) 🍇
 
 ### 💻 What i am currently/done working on
 - Naturally North Bay  🚀 *coming soon*
@@ -34,7 +33,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - se.quenc.es  🚀 *coming soon*
 - [Bubbies](https://bubbies.com)🥬
 - [Cesco Magnetics](https://cescomagnetics.com/) 🧲
-- [Opperman & Sons](https://oppermansales.com/)🚛
+- [Opperman & Son](https://oppermansales.com/)🚛
 - [Weinstein Security](https://weinsteinsecurity.com/)👮
 - [Katalina Holding Company](https://katalinaholdingcompany.com/)✈️
 - [Spoiled to Perfecton](https://spoiledtoperfection.com/)🥒
