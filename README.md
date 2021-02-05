@@ -25,13 +25,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Viti Analytics: Developer and Founder](https://viti.io/) 🍇
 
 ### 💻 What i am currently/done working on
-- [Bubbies](https://bubbies.com)  🚀
+- Naturally North Bay  🚀 *coming soon*
 - Pharmpak  🚀 *coming soon*
 - Oeno.io  🚀 *coming soon*
 - firefirefire  🚀 *coming soon*
 - Just give me the recipes  🚀 *coming soon*
 - linkto.network  🚀 *coming soon*
 - se.quenc.es  🚀 *coming soon*
+- [Bubbies](https://bubbies.com)🥬
 - [Cesco Magnetics](https://cescomagnetics.com/) 🧲
 - [Opperman & Sons](https://oppermansales.com/)🚛
 - [Weinstein Security](https://weinsteinsecurity.com/)👮
