@@ -24,8 +24,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Bright Productions: CTO](https://brightproductions.com) 💼 
 
 ### 💻 What i am currently/done working on
-- Naturally North Bay  🚀 *coming soon*
-- Pharmpak  🚀 *coming soon*
+- [Naturally North Bay](https://naturallynorthbay.org)🥦🍇🌊
+- [Pharmpak](https://pharmpakinc.com/)💊
 - Oeno.io  🚀 *coming soon*
 - firefirefire  🚀 *coming soon*
 - Just give me the recipes  🚀 *coming soon*
