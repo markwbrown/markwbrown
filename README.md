@@ -1,10 +1,3 @@
-## [![Mark Brown's header](https://github.com/markwbrown/markwbrown/blob/main/icon/mb-bannner-light.png)](https://markbrown.space)
-
-<p align='center'>
-<a href="https://twitter.com/_0_0_"><img height="30" src="https://github.com/markwbrown/markwbrown/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/iammarkbrown"><img height="30" src="https://github.com/markwbrown/markwbrown/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-</p>
-
 <h2 align="center">Hello there! My name is Mark Brown and this is a hand 👋 </h2>
 <p align="center">I'm a Full Stack Web Developer, Farmer, Embedded systems designer from California.
 I currently am passionate about Progressive Web Apps (Vue and React), Koa2, Python, Numpy/Pandas, Coffee, Neural Nets, S.E.O, Web Performance, Robotics and Automation.
