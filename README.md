@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! My name is Mark Brown and this is a hand 👋 </h2>
-<p align="center">I'm a Full Stack Web Developer, Farmer, Embedded systems designer from California.
-I currently am passionate about Progressive Web Apps (Vue and React), Koa2, Python, Numpy/Pandas, Coffee, Neural Nets, S.E.O, Web Performance, Robotics and Automation.
-When I'm not developing and building things, you can find me on Youtube learning or farming.</p>
+<p align="center">I'm a Full Stack Web Developer from California. I've been programming and hacking things since the days of 386 computers.
+I am passionate about Progressive Web Apps (Vue and React), Koa2, Python, Numpy/Pandas, Coffee, Neural Nets, S.E.O, Web Performance, Robotics and Automation.
+When I'm not developing and building things, I'm likely reading or working in the garden.</p>
 
 
 ### 📰 Blog Posts
@@ -19,11 +19,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 ### 💻 What i am currently/done working on
 - [Naturally North Bay](https://naturallynorthbay.org)🥦🍇🌊
 - [Pharmpak](https://pharmpakinc.com/)💊
-- Oeno.io  🚀 *coming soon*
-- firefirefire  🚀 *coming soon*
-- Just give me the recipes  🚀 *coming soon*
-- linkto.network  🚀 *coming soon*
-- se.quenc.es  🚀 *coming soon*
 - [Bubbies](https://bubbies.com)🥬
 - [Cesco Magnetics](https://cescomagnetics.com/) 🧲
 - [Opperman & Son](https://oppermansales.com/)🚛
@@ -33,9 +28,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 
 ### 📫 Where to find me
-- [Twitter](https://twitter.com/_0_0_) 🐤
 - [Instagram](https://instagram.com/iammarkbrown) 😎
 - [Website](https://markbrown.space) 😏🔗
-- [Blog](https://blog.markbrown.space) 🤓💻
+- [Stack Overflow](https://stackoverflow.com/users/2673694/mark-brown) 🤓💻
 
 ![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markwbrown&show_icons=true&theme=radical)
