@@ -14,7 +14,7 @@ When I'm not developing and building things, I'm likely reading or working in th
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
-- [Bright Productions: CTO](https://brightproductions.com) 💼 
+- [Summit Technology Consulting Group](https://thesummitgrp.com/) 💼 
 
 ### 💻 What i am currently/done working on
 - [Naturally North Bay](https://naturallynorthbay.org)🥦🍇🌊
@@ -22,7 +22,7 @@ When I'm not developing and building things, I'm likely reading or working in th
 - [Bubbies](https://bubbies.com)🥬
 - [Cesco Magnetics](https://cescomagnetics.com/) 🧲
 - [Opperman & Son](https://oppermansales.com/)🚛
-- [Weinstein Security](https://weinsteinsecurity.com/)👮
+- [Weinstein Security](http://web.archive.org/web/20201201082536/https://www.weinsteinsecurity.com/)👮
 - [Katalina Holding Company](https://katalinaholdingcompany.com/)✈️
 - [Spoiled to Perfecton](https://spoiledtoperfection.com/)🥒
 
