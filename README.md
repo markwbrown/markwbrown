@@ -31,5 +31,3 @@ When I'm not developing and building things, I'm likely reading or working in th
 - [Instagram](https://instagram.com/iammarkbrown) 😎
 - [Website](https://markbrown.space) 😏🔗
 - [Stack Overflow](https://stackoverflow.com/users/2673694/mark-brown) 🤓💻
-
-![Mark's Github Stats](https://github-readme-stats.vercel.app/api?username=markwbrown&show_icons=true&theme=radical)
