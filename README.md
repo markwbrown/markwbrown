@@ -13,8 +13,6 @@ When I'm not developing and building things, I'm likely reading or working in th
 - [Git Deploy For The Win](https://blog.markbrown.space/entry/git-deploy-for-the-win)
 <!-- BLOG-POST-LIST:END -->
 
-### 💼 Where i am currently working at/as
-- [Summit Technology Consulting Group](https://thesummitgrp.com/) 💼 
 
 ### 💻 What i am currently/done working on
 - [Small Business Administration's Disaster Lending Platform](https://lending.sba.gov)🚌🌪️💸
