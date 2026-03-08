@@ -36,7 +36,7 @@
 
 - **Manufacturing & compliance systems**  
   Built internal tools for regulated environments where data lineage,
-  traceability, and reliability mattered more than flashy UX.
+  traceability, and reliability mattered.
 
 - **Logistics & operations software**  
   Designed and implemented systems supporting dispatch, invoicing,
